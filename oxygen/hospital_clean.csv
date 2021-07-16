@@ -1,0 +1,616 @@
+id,state,district,state_id,district_id,category,phone_1,title,address,city,phone_2,last_verified_on
+0,Uttar Pradesh,mirzapur,35,664,hospital,9628214214,Apex Institure Of Medical Sciences,,,9415304106,4/22/2021 18:29:00
+1,Maharashtra,mumbai city,22,378,hospital,91 223759025,BMS Mumbai medical helpline,,,,
+2,Chhattisgarh,raipur,10,148,hospital,9424202260,sp sahu,Indore stadium,,,
+3,Delhi (NCT),south west delhi,12,165,hospital,011-25322335,Surya kiran hospital,Najafgarh,najafgarh,7982806070,"24 April, 3:14AM"
+4,Delhi (NCT),north west delhi,12,161,hospital,011-43126000,Bhagwati Hospital,"Rohini, New Delhi",rohini,,23 April - 19:57
+5,Delhi (NCT),south west delhi,12,165,hospital,9354085207,Jay Hospital,Najafgarh,najafgarh,,23 April 11:02 PM
+6,Haryana,ambala,15,201,hospital,9910223322,Gyan Sagar Medical College,Ambala,ambala,,24 April 12:31 PM
+7,Rajasthan,sikar,30,528,hospital,9829294865,Getwell Hospital,"RAJASTHAN, sikar",sikar,9414214011,"24 April, 1:30 PM"
+8,Delhi (NCT),new delhi,12,158,hospital,8448284610,Madhukar Rainbow Children Hospital11 ICU Beds,"Geetanjali FC 29 5 Near Malaviya Nagar Metro Station, New Delhi",,9100065913,4/25/2021 5:00p.m
+9,Bihar,patna,8,112,hospital,7004406669,"K.K Hospital, Purnea",,,,26th Apr 10 am
+10,Bihar,patna,8,112,hospital,9135582078,Ayushmann care Hospital ,,,,26 Apr 1:38 PM
+11,Bihar,patna,8,112,hospital,9470003568,Hospital,NMCH Patna,,,
+12,Gujarat,dahod,14,177,hospital,7990161244,Railway Main Hospital Dahod,,,,4/23/2021 5:16pm
+13,Gujarat,navsari,14,190,hospital,8141846005,Orange Hospital,,,2637242200,4/24/2021 1:57pm
+14,Rajasthan,hanumangarh,30,514,hospital,9413378778,Mahatma Gandhi Memorial Hospital,,,,4/27/2021 2:37pm
+15,Maharashtra,mumbai city,22,378,hospital,912222197331,BMS Mumbai medical helpline,,,,
+16,Bihar,arwal,8,88,hospital,1234567890,Hospital Beds - Arwal,,arwal,,
+17,Jharkhand,bokaro,18,255,hospital,1234567890,Hospital Beds - Bokaro,,bokaro steel city,,
+18,Uttarakhand,champawat,36,686,hospital,5965231012,District Hospital,,,,4/23/2021 9:06pm
+19,Uttarakhand,pauri garhwal,36,690,hospital,1346244701,"Base Hospital Kotdwar, Srinagar Medical College",,,,4/23/2021 6:54pm
+20,Uttarakhand,uttarkashi,36,695,hospital,1374222103,District Hospital,,,,4/23/2021 5:57pm
+21,West Bengal,howrah,37,704,hospital,9230518611,Sanjivani Nursing Home,,,,4/24/2021 12:34pm
+22,Uttar Pradesh,lucknow,35,657,hospital,9839214214,Lucknow Hospital,"B-1, Kanpur - Lucknow Rd, Sindhu Nagar, Behind, Krishna Nagar, Kotwali, Lucknow, Uttar Pradesh 226023",lucknow,0522 2470855,
+23,Chhattisgarh,raipur,10,148,hospital,9300850010,ashwani dewagan,Kirti covid care center,,,
+24,West Bengal,howrah,37,704,hospital,3340880000,"Ils Hospital , Golabarihowrah",,,,4/23/2021 2:02pm
+25,Gujarat,amreli,14,169,hospital,9978293000,Navjivan General Hospital,,,,4/22/2021 2:22pm
+26,Gujarat,surat,14,200,hospital,9924144772,Apple Hospital,,,2612310703,4/24/2021 15:47:00
+27,Rajasthan,sikar,30,528,hospital,1572274460,"Kalyan Arogya Sadan, Sanwali, Sikar",,,,4/24/2021 12:49:00
+28,Uttar Pradesh,kaushambi,35,653,hospital,9451127528,The Purnima Hospital And Research Center,,,9451127528,4/23/2021 17:54:00
+29,Bihar,madhepura,8,106,hospital,1234567890,Hospital Beds - Madhepura,,madhepura,,
+30,Gujarat,morbi,14,188,hospital,9825257493,Krishna Multispeciality Hospital,,,2822224491,4/23/2021 5:33pm
+31,Uttar Pradesh,lucknow,35,657,hospital,9919604383,Vinayak Trauma Centre & Hospital,"Junabgunj,, Kanpur - Lucknow Rd, Lucknow, Uttar Pradesh 227101",lucknow,,
+32,Gujarat,morbi,14,188,hospital,7575088888,Ayush Multispeciality Hospital,,,2822222122,4/24/2021 1:35pm
+33,Bihar,nalanda,8,110,hospital,1234567890,Hospital Beds - Nalanda,,nalanda,,
+34,Rajasthan,jaipur,30,515,hospital,0141 2225624,Rajasthan Covid Control Room/Beds,Jaipur-Rajasthan,jaipur,181,
+35,Rajasthan,alwar,30,501,hospital,7793007366,Rajiv Gandhi General Hospital,,,,4/22/2021 2:18pm
+36,Bihar,west champaran,8,124,hospital,1234567890,Hospital Beds - West Champaran,,west champaran,,
+37,Rajasthan,alwar,30,501,hospital,1445132019,Lords Hospital,,,,4/22/2021 2:17pm
+38,Madhya Pradesh,bhopal,21,319,hospital,7692940261,RKDF University Hospital,,,919301108890,4/27/2021 14:35:00
+39,Telangana,hyderabad,33,571,hospital,9700884429,Pratima Hospital,,hyderabad,,
+40,Uttar Pradesh,lucknow,35,657,hospital,8960099939,Jagrani Hospital,"C 50 51, Trimurti Gram, Ring Road, Kalyanpur, Lucknow, Uttar Pradesh 226022",lucknow,,
+41,Kerala,kottayam,1,5,hospital,9447347282,General Hospital Kottayam,,,,4/24/2021 12:09:00
+42,Uttar Pradesh,lucknow,35,657,hospital,7982565379,Chandan Hospital,"Faizabad Rd, Vikrant Khand 3, Vikrant Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",lucknow,9849040855,
+43,Tamil Nadu,chennai,32,538,hospital,7358033302,Child Trust Hospitals,,,,4/23/2021 14:06:00
+44,Bihar,kaimur (bhabua),8,101,hospital,1234567890,Hospital Beds - Kaimur,,kaimur (bhabua),,
+45,Maharashtra,mumbai city,22,378,hospital,022-61242424,Horizon Hospital,Thane,mumbai,,
+46,Uttar Pradesh,lucknow,35,657,hospital,8176001561,Dr. Ram Manohar Lohia Institute of Medical Sciences,"Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",lucknow,9453075416,
+47,Delhi (NCT),new delhi,12,158,hospital,9968656990,Hospital,army the SVP covid hospital,,9818047498,
+48,Bihar,patna,8,112,hospital,1234567890,Hospital Beds - Patna,,patna,,
+49,Uttar Pradesh,lucknow,35,657,hospital,0522 2960439,Career Institute of Medical Sciences and Hospital,"Sitapur - Hardoi Bypass Road, Near I.I.M., Ghailla, Lucknow, Uttar Pradesh 226020",lucknow,,
+50,Uttarakhand,champawat,36,686,hospital,1234567890,Champawat Covid Beds,Champawat,champawat,,
+51,Meghalaya,east garo hills,24,414,hospital,8414055904,Williamnagar Civil Hospital,,,,4/27/2021 14:40:00
+52,Uttar Pradesh,lucknow,35,657,hospital,0522-2622627,DRDO Avadh Shilpgram Covid Care Centre,"near, Sector 9, Amar Shaheed Path, Awadh Vihar Yojna, Lucknow, Uttar Pradesh 226029",lucknow,9454416813,
+53,Gujarat,jamnagar,14,182,hospital,9652051550,Jamnagar Critical Care Hospital,,,2882563056,4/23/2021 17:59:00
+54,Uttar Pradesh,lucknow,35,657,hospital,8004748577,Lucknow Heritage Hospital,"Kanchan Market Complex, Phool Mandi, Chowk, Lucknow, Uttar Pradesh 226003",lucknow,0522 225 8577,
+55,Bihar,patna,8,112,hospital,7903149205,Hospital,Ashoka Patliputra patna,,,
+56,Rajasthan,jaipur,30,515,hospital,9828816158,Swasthya Kalyan Covid Care Centre,"Sitapura, Jaipur",jaipur,9887587811,
+57,Rajasthan,jaipur,30,515,hospital,1412246161,Asopa Hospital,,,,4/27/2021 14:41:00
+58,Bihar,nawada,8,111,hospital,1234567890,Hospital Beds - Nawada,,nawada,,
+59,Bihar,aurangabad,8,89,hospital,1234567890,Hospital Beds - Aurangabad,,aurangabad,,
+60,Karnataka,bengaluru (bangalore) urban,19,283,hospital,1800 102 5555,Manipal Hospital,"98, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560017, India",bangalore,,
+61,Gujarat,surat,14,200,hospital,9825649192,R.T.S.V Hospital,,,2612578887,4/24/2021 14:01:00
+62,Bihar,khagaria,8,103,hospital,1234567890,Hospital Beds - Khagaria,,khagaria,,
+63,Maharashtra,mumbai city,22,378,hospital,9136665105,SR Memorial hospital,,mumbai,,
+64,Uttar Pradesh,unnao,35,681,hospital,9412738652,Shri Ram Murti Smarak Hospital,,,9412293353,4/24/2021 12:39:00
+65,Uttar Pradesh,lucknow,35,657,hospital,9119690303,Makewell Hospital,"Vijay Tower, CP-1, Vastu Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",lucknow,7897492222,
+66,Haryana,gurgaon,15,206,hospital,9818073527,hospital,,,,
+67,Maharashtra,mumbai city,22,378,hospital,022-25855081,Lifecare Hospital,Thane,mumbai,,
+68,Maharashtra,mumbai city,22,378,hospital,022-25763500,Hiranandani Hospital,Powai,mumbai,,
+69,Uttarakhand,dehradun,36,687,hospital,1234567890,Dehradun Covid Beds,Dehradun,dehradun,,
+70,Kerala,ernakulam,1,7,hospital,9847278924,Medical College Ernakulam,,,,4/23/2021 17:49:00
+71,Uttar Pradesh,lucknow,35,657,hospital,9648543523,Anandi Water Park ( Covid Care Centre),ESI ,lucknow,094150 08377,
+72,Uttar Pradesh,kanpur dehat,35,650,hospital,7235002769,hospitsl,"JL Rohtagi, Kanpur",,,
+73,Uttar Pradesh,lucknow,35,657,hospital,7000050719,HInd Medical College,"Safedabad, Barabanki Road, Near Canal,Lucknow Metro, Lucknow, Uttar Pradesh 225003",lucknow,9415387752,
+74,Bihar,siwan,8,121,hospital,1234567890,Hospital Beds - Siwan,,siwan,,
+75,Uttar Pradesh,lucknow,35,657,hospital,8935003257,CNS Hospital,"20/154, Sector-25 Crossing,, Indira Nagar, Lucknow, Uttar Pradesh 226016",lucknow,0522 231 0816,
+76,Bihar,patna,8,112,hospital,9162413233,Sir Raj Trust Hospita;,,,,26 Apr 12:22 PM
+77,Uttar Pradesh,lucknow,35,657,hospital,8808915240,Autar Multispeciality Hospital,"Everady Chauraha, Talkatora Road, Tanki, Bulaki Adda, Talkatora, Aishbagh, Lucknow, Uttar Pradesh 226005",lucknow,9415023340,
+78,Uttar Pradesh,hapur (panchsheel nagar),35,643,hospital,8057153994,Saraswathi Institute Of Medical Sciences,,,8755377390,4/27/2021 14:35:00
+79,Maharashtra,pune,22,387,hospital,9765843763,Siddhivinayak Covid Center,,,,4/29/2021 10:08 PM
+80,Puducherry (UT),mahe,28,475,hospital,7012224560,Government General Hospital,,,,4/23/2021 20:18:00
+81,Uttar Pradesh,lucknow,35,657,hospital,6387761660,Haj House (Covid Care Centre),"Near Amausi International Airport, Sarojini Nagar, Lucknow, Uttar Pradesh, India",lucknow,,
+82,Madhya Pradesh,indore,21,332,hospital,7089334218,Vishesh Hospital & Diagnostic Solutions,,,,4/23/2021 18:58:00
+83,Bihar,begusarai,8,91,hospital,1234567890,Hospital Beds - Begusarai,,begusarai,,
+84,Uttar Pradesh,hardoi,35,644,hospital,9560703162,Katiyar Nursing Home Dharmshala Road Hardoi,,,9415149239,4/24/2021 12:50:00
+85,Gujarat,surat,14,200,hospital,2612474268,Anand Children Hospital,,,,4/23/2021 17:29:00
+86,Gujarat,surat,14,200,hospital,9824155991,Pathik Children Hosp,,,2612277538,4/23/2021 20:29:00
+87,Delhi (NCT),south delhi,12,163,hospital,7042979774,Terapanth Covid Center,Chattarpur,delhi,7371084226,
+88,West Bengal,hooghly,37,703,hospital,3326945775,Kamala Roy Hospital,,,,4/23/2021 8:35pm
+89,Chandigarh (UT),chandigarh,9,125,hospital,9779558282,Chandigarh - Covid Beds,Chandigarh,chandigarh,"0172-2752038,",
+90,Meghalaya,east garo hills,24,414,hospital,9774760713,Woodland Hospital Shillong,,,9863060371,4/22/2021 17:54:00
+91,Maharashtra,mumbai city,22,378,hospital,022-21647575,Manisha Hospital,Mulund,mumbai,,
+92,Gujarat,bhavnagar,14,174,hospital,9825788033,Nirmal Children Hospital,,,2782424111,4/23/2021 13:39:00
+93,Gujarat,anand,14,170,hospital,9824323603,Apara Hospital,,,2692251536,4/22/2021 2:31pm
+94,Gujarat,bharuch,14,173,hospital,8238055307,Global Hospital,,,2642265400,4/22/2021 3:15pm
+95,West Bengal,murshidabad,37,709,hospital,9734462843,Lalbagh Rainbow Nursing Home,,,,4/24/2021 4:00pm
+96,Uttar Pradesh,lucknow,35,657,hospital,8840466030,Sanjeevani Hospital,"H.Non10 Adil Nagar Near Institute Of Environment &Management, Kursi Rd, behind Gayatri Mandir, Lucknow, Uttar Pradesh 226021",lucknow,9473994947,
+97,Uttarakhand,pauri garhwal,36,690,hospital,1234567890,Pauri Garhwal Covid Beds,Pauri Garhwal,pauri,,
+98,Gujarat,surendranagar,14,196,hospital,9898298958,Sterling Hospital-Vadodara,,,2652354455,4/22/2021 4:23pm
+99,Uttar Pradesh,lucknow,35,657,hospital,9235435015,SIPS Super Speciality Hospital,"29, Shah Mina Rd, Jawahar Nagar, Chowk, Lucknow, Uttar Pradesh 226003",lucknow,,
+100,Maharashtra,raigad,22,388,hospital,8888863055,Civil Hospital,,,,
+101,Uttar Pradesh,lucknow,35,657,hospital,9044829709,Mayo Hospital,"Vikaskhand 2, Vikas Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",lucknow,8853268994,
+102,Uttar Pradesh,lucknow,35,657,hospital,731190006,Integral College,"Integral University, Kursi Rd, Lucknow, Uttar Pradesh 226026",lucknow,7311190888,
+103,Chhattisgarh,raipur,10,148,hospital,9131010877,hospital,"Mahadeva hospital, mahadeva ghat",,,
+104,Chhattisgarh,raipur,10,148,hospital,9340240899,Ashadeep hospital,"Ashadeep hospital, new Rajendra nagar",,,
+105,Chhattisgarh,raipur,10,148,hospital,9109190911,RIMS hospital,bhansoj road RIMS Hospital,,,
+106,Jharkhand,ranchi,18,274,hospital,7677111010,Rani hospital,"rani hospital, kutchery",,,
+107,Uttar Pradesh,lucknow,35,657,hospital,8960059573,Hospital,"Dr. O.P. Chaudhary Hospital and Research CentreL3, Private Chaudhary Vihar Raebareli Road, Lucknow",,,
+108,Uttarakhand,udham singh nagar,36,694,hospital,1234567890,Udham Singh Nagar Covid Beds,Udham Singh Nagar,udham singh nagar,,
+109,Telangana,hyderabad,33,571,hospital,9640603161,Srikara Hospital,Secunderabad,hyderabad,,
+110,Uttar Pradesh,lucknow,35,657,hospital,9918887722,Vidya Hospital & Trauma Centre,"Harikansh Garhi Raibareli, Raebareli - Lucknow Rd, Lucknow, Uttar Pradesh 226301",lucknow,7755806555,
+111,Uttar Pradesh,lucknow,35,657,hospital,8858602073,Medical Care Centre,"Kanpur - Lucknow Rd, Ram Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",lucknow,8881708881,
+112,Rajasthan,jaipur,30,515,hospital,7791011100,Arya Hospital,,jaipur,,
+113,Uttar Pradesh,mathura,35,661,hospital,7055318519,KD Medical College Hospital And Research Center,,,9897955556,4/24/2021 13:51:00
+114,Jharkhand,deoghar,18,257,hospital,1234567890,Hospital Beds - Deoghar,,deoghar,,
+115,West Bengal,hooghly,37,703,hospital,3326220136,Shramajibi Hospital,,,,4/23/2021 5:36pm
+116,Uttar Pradesh,lucknow,35,657,hospital,8400000784,Green City Hospital,"D 12 Dwarika Estate Misrapur, Kursi Rd, Lucknow, Uttar Pradesh 226026",lucknow,,
+117,Uttar Pradesh,lucknow,35,657,hospital,8173065444,K. K. Hospital,"87/88 Nabiullah Road Opp. SSP Office, River Bank Colony, Lucknow, Uttar Pradesh 226018",lucknow,9415020124,
+118,Bihar,saran,8,117,hospital,1234567890,Hospital Beds - Saran,,saran,,
+119,Maharashtra,mumbai city,22,378,hospital,022-25946132,Bhatia Ruby Hospital,Bhandup,mumbai,,
+120,Haryana,gurgaon,15,206,hospital,8792739537,Hospital,pristyn care gurugram ,,,
+121,Maharashtra,mumbai city,22,378,hospital,912223835004,BMS Mumbai medical helpline,,,,
+122,Uttarakhand,pithoragarh,36,691,hospital,1234567890,Pithoragarh Covid Beds,Pithoragarh,pithoragarh,,
+123,Uttar Pradesh,lucknow,35,657,hospital,9453207748,Vivekanand Hospital,"Aliganj Mahabirji Mandir Marg, Nirala Nagar, Vivekanandapuri Hydel Colony, Vivekananda Puram, Lucknow, 226007",lucknow,9889336105,
+124,Chhattisgarh,raipur,10,148,hospital,7415790434,hospital,esic private hospital,,,
+125,Uttarakhand,tehri garhwal,36,693,hospital,1234567890,Tehri Garhwal Covid Beds,Tehri Garhwal,tehri,,
+126,Tamil Nadu,chennai,32,538,hospital,7904016493,Hospital Porur,,chennai,,
+127,Meghalaya,west jaintia hills,24,423,hospital,9436106997,Norman Tunnel Hospital Jowai,,,,4/22/2021 3:33pm
+128,West Bengal,north 24 parganas,37,711,hospital,3215262260,Sundarpur B.P.H.C,,,,4/27/2021 14:35:00
+129,Maharashtra,mumbai suburban,22,379,hospital,090756 61239,Ashapuri Hospital,"Chamunda Co-Op.Hsg.Soc.Ltd, Western Express Hwy, Rawalpada, Dahisar East, Mumbai, Maharashtra 400068",mumbai,,
+130,Uttar Pradesh,lucknow,35,657,hospital,7518111666; 9450093920,OP Choudhary Hospital,"Raibareli Rd, Sector 1, Chaudhary Vihar, Lucknow, Uttar Pradesh 226025",lucknow,9533169960,
+131,Bihar,kishanganj,8,104,hospital,1234567890,Hospital Beds - Kisanganj,,kishanganj,,
+132,Uttar Pradesh,lucknow,35,657,hospital,8604540222,RSD Samarpan Hospital,"Deva Rd, Lucknow, Uttar Pradesh 226028",lucknow,9415002806,
+133,Uttar Pradesh,lucknow,35,657,hospital,9450355961,Medwell Hospital,"Burlington Crossing, 37, Cantonment Rd, Lucknow, Uttar Pradesh 226001",lucknow,9554987564,
+134,Uttarakhand,almora,36,683,hospital,5962230557,Base Hospital,,,,4/22/2021 2:17pm
+135,Andhra Pradesh,visakhapatnam,5,29,hospital,0866-2410978,Andhra Pradesh - Hospital Beds,,visakhapatnam,,
+136,Bihar,patna,8,112,hospital,8434571619,Hospital,Max Care Hospital,,8340357578,
+137,Bihar,jehanabad,8,100,hospital,1234567890,Hospital Beds - Jehanabad,,jehanabad,,
+138,Uttar Pradesh,lucknow,35,657,hospital,9450048007,Shatabdi Super Speciality Hospital,"Sultanpur Road, Lucknow",lucknow,,
+139,West Bengal,bankura,37,697,hospital,9434216662,Medicare General Hospital,,,,4/22/2021 2:48pm
+140,Telangana,hyderabad,33,571,hospital,9000245391,Maha Hospital,Jubilee Hills,hyderabad,,
+141,Jharkhand,ranchi,18,274,hospital,1234567890,Hospital Beds - Ranchi,,ranchi,,
+142,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9036304558,Bowring & Lady Curzon Medical College & Research Institute,,,,4/27/2021 14:39:00
+143,Karnataka,bengaluru (bangalore) urban,19,283,hospital,8198449506,Hospital Artiam R R Nagar,,bangalore,,5/8/21 18:26
+144,Uttar Pradesh,lucknow,35,657,hospital,7839564427,T S Mishra Medical College & Hospital,"opp. Railway Station, Amausi, Anora, Uttar Pradesh 226009",lucknow,078395 64428,
+145,Uttar Pradesh,lucknow,35,657,hospital,8960286288,Sun Hospital,"Vibhav Khand, Gomatinagar, Lucknow",lucknow,,
+146,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9986863110,Bowring Hospital Shivajinagar,,bangalore,,5/8/21 18:26
+147,Gujarat,navsari,14,190,hospital,9825683362,Kejal Lifein Hospital,,,2637236101,4/27/2021 2:38pm
+148,Telangana,hyderabad,33,571,hospital,7331126430,Care Hospitals,,hyderabad,,
+149,Uttar Pradesh,gonda,35,640,hospital,9415120955,R N Pandey,,,9415120955,4/23/2021 18:22:00
+150,Uttar Pradesh,meerut,35,663,hospital,9837049311,KMC Hospital And Research Centre,,,,4/24/2021 13:05:00
+151,Haryana,rohtak,15,219,hospital,9306717284,HOLY HEART,,,9306722176,4/24/2021 16:29:00
+152,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9739803593,Charaka Hospital V V Puram,,bangalore,,5/8/21 18:28
+153,Karnataka,bengaluru (bangalore) urban,19,283,hospital,8150978143,Sagar Hospital Banashankari,,bangalore,,5/8/21 18:28
+154,Maharashtra,mumbai suburban,22,379,hospital,9820881282,Pawan Dham,,,9820959828,4/27/2021 14:35:00
+155,West Bengal,kolkata,37,707,hospital,8820702070,Mr Bangur Hospital,,,,4/23/2021 18:12:00
+156,Maharashtra,mumbai city,22,378,hospital,9152050040,Nanavati Hospital,"Swami Vivekananda Rd, near LIC, LIC Colony, Suresh Colony, Vile Parle West, Mumbai, Maharashtra 400056",mumbai,,
+157,Maharashtra,mumbai city,22,378,hospital,8080833354,Veena Multi-Specialty Hospital (Andheri),"Plot No, Swaroop Bhavan, 38, Tarun Bharat Rd, Chakala, Andheri East, Mumbai, Maharashtra 400099",mumbai,,
+158,Bihar,sitamarhi,8,120,hospital,1234567890,Hospital Beds - Sitamarhi,,sitamarhi,,
+159,Rajasthan,bharatpur,30,505,hospital,5644236800,"Jindal Nursing HomeSp Mukherjee Nagar, Bharatpur, Bharatpur, Rajasthan, India, Pincode: 321001",,,5644236550,4/22/2021 3:14pm
+160,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9448053952,Vagus Hospital Mallesharam,,bangalore,,5/8/21 18:30
+161,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9986315997,Applo Hospital Sheshadripuram,,bangalore,,5/8/21 18:34
+162,Chhattisgarh,raipur,10,148,hospital,104,Chhatisgarh - District Covid Helpline,,raipur,0788-2210772,
+163,Delhi (NCT),new delhi,12,158,hospital,9319589279,Delhi Sikh Gurudwara Mgt. Commitee,Sarai Kale Khan,delhi,1123737328,
+164,Rajasthan,jaipur,30,515,hospital,8209112988,Maharaja Vinayak General Hospital,,,,4/25/2021 18:45:00
+165,Delhi (NCT),new delhi,12,158,hospital,011 22307145,500 beds ICU Covid Care Centre,"Ram Leela Maidan, Opp. GTB Hospital, Delhi",delhi,,
+166,Uttar Pradesh,fatehpur,35,635,hospital,9670780916,Broadwell Christian Hosptial,,,8318748851,4/27/2021 14:42:00
+167,Gujarat,mehsana,14,187,hospital,8200906507,Shankuz Medi City,,,,4/23/2021 17:02:00
+168,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9845052232,Colombia Asia Hospital Hebbal,,bangalore,,5/8/21 18:34
+169,Bihar,samastipur,8,116,hospital,1234567890,Hospital Beds - Samastipur,,samastipur,,
+170,Karnataka,bengaluru (bangalore) urban,19,283,hospital,080 66040400,Aster RV hospital ,   JP Nagar ,bangalore,,
+171,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9448214426,Victoria Hospital K.R.Market,,bangalore,,5/8/21 18:36
+172,Uttar Pradesh,lucknow,35,657,hospital,9415002546,Kamakhya Hospital,"Sarai Mali Ka Krasinga, Hardoi Rd, Chaupatiyan, Chowk, Lucknow, Uttar Pradesh 226003",lucknow,0522 225 3939,
+173,Meghalaya,east garo hills,24,414,hospital,9436103945,Civil Hospital Shillong,,,9436103036,4/23/2021 14:49:00
+174,Rajasthan,nagaur,30,523,hospital,1582242985,JLN Hospital,,,,4/23/2021 4:50pm
+175,Maharashtra,mumbai city,22,378,hospital,"022-25905599, 9322709039",Sai Siddhi Hospital (Mulund),,mumbai,,
+176,Maharashtra,mumbai city,22,378,hospital,9136665305,Apex Hospital (Mulund),,mumbai,022-41624000,
+177,Gujarat,surat,14,200,hospital,2612477788,Shri K.P.Sanghvi Hopsital,,,,4/23/2021 17:45:00
+178,Uttar Pradesh,lucknow,35,657,hospital,9555980262,Era Lucknow Medical College and Hospital,"Sarfarazganj, Hardol Road, Lucknow",lucknow,5226600777,
+179,Chhattisgarh,raipur,10,148,hospital,6267367823,Hospital,"Ayurvedic hospital, great Eastern road",,,
+180,Bihar,supaul,8,122,hospital,1234567890,Hospital Beds - Supaul,,supaul,,
+181,Meghalaya,south west khasi hills,24,421,hospital,9485126252,Holy Cross Hospital Mairang,,,,4/22/2021 3:08pm
+182,Maharashtra,mumbai city,22,378,hospital,9773459206,MAA Hospital,"B R C Colony, R C Marg, Chembur East, Mumbai - 400071, Near Aaradhana Hotel",mumbai,912225220334,
+183,Uttar Pradesh,lucknow,35,657,hospital,8052258241,SHM Hospital,Malihabad Lucknow,lucknow,,
+184,Gujarat,amreli,14,169,hospital,9426212522,Raghavedra Hospital,,,2792233580,4/22/2021 2:24pm
+185,Uttarakhand,haridwar,36,688,hospital,1234567890,Haridwar Covid Beds,Haridwar,haridwar,,
+186,Telangana,hyderabad,33,571,hospital,9182559313,Kachiguda,,hyderabad,,05/08/21 19:30
+187,Bihar,patna,8,112,hospital,8102473340,Hospital,JDM Kankarbagh,,,
+188,Delhi (NCT),new delhi,12,158,hospital,1143274444,Hospital,"Garg hospital, no.8and9,opp karkardooma court ,sector 17",,1145152556,
+189,Telangana,hyderabad,33,571,hospital,4045674567,Yashoda Hospital,somajiguda,hyderabad,,
+190,West Bengal,kolkata,37,707,hospital,3340171717,Eedf  Medicare Centre  (Sri Aurobindo Seva Kendra),,,,4/23/2021 20:51:00
+191,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9964089472,M.S.Ramaiah Hospital New BEL Road,,bangalore,,5/8/21 18:24
+192,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9071703519,People Trees Hospital Gorguntepalya,,bangalore,,5/8/21 18:25
+193,Telangana,hyderabad,33,571,hospital,7893850658,Safe Hospital,athapur,hyderabad,,
+194,Telangana,hyderabad,33,571,hospital,9849616870,Ent Hospital,somajiguda,hyderabad,,
+195,Gujarat,surat,14,200,hospital,7573039107,Saachi Hospital,,,2612236800,4/24/2021 16:35:00
+196,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9845313235,Unity life Hospital Nagarbhavi ,,bangalore,,
+197,Uttar Pradesh,lucknow,35,657,hospital,6391939505,Medanta Hospital,"Amar Shaheed Path, Golf City, Pocket - 1, Sector A, Lucknow, Uttar Pradesh 226030",lucknow,7314747015,
+198,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9488658119,N.R.Hospital Chandapura,,bangalore,,5/8/21 18:36
+199,Uttar Pradesh,lucknow,35,657,hospital,7318063333,Mayo Institue of Medical Sciences,"Faizabad Rd, Gram, Gadia, Uttar Pradesh 225001",lucknow,8935002601,
+200,Rajasthan,pratapgarh,30,525,hospital,9450185865,Ruma Hospital,,,9838232323,4/23/2021 8:56pm
+201,Rajasthan,jaipur,30,515,hospital,1412770798,Mahatma Gandhi hospital ,,,1412771777,4/24/2021 16:06:00
+202,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9880455127,Sakra Hospital Marathalli,,bangalore,,5/8/21 18:38
+203,Gujarat,morbi,14,188,hospital,9879547425,Gokul Hospital,,,2822225800,4/23/2021 8:04pm
+204,West Bengal,kolkata,37,707,hospital,9051715171,Desun  Hospital,,,3371222000,4/23/2021 19:00:00
+205,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9886051074,Harsha Ramaiah Nelamangala,,bangalore,,5/8/21 18:41
+206,Telangana,hyderabad,33,571,hospital,8978709593,satyam Hospital,Attapur,hyderabad,,05/08/21 19:40
+207,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9538965009,Leena Ramaiah Devanahalli,,bangalore,,5/8/21 18:41
+208,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9844141315,Sapthagiri Medical College Hospital Chikkabanavara,,bangalore,,5/8/21 18:44
+209,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9844016665,Med Ray Sanjay nagar ,,bangalore,,5/8/21 18:44
+210,Tamil Nadu,chennai,32,538,hospital,9789954702,Southern Crest Hotels ,,chennai,,
+211,West Bengal,nadia,37,710,hospital,3346000450,Glocal,,,,4/24/2021 1:45pm
+212,Gujarat,surendranagar,14,196,hospital,9099922480,C.U.Shah Medical College And Hospital,,,,4/24/2021 2:10pm
+213,Uttar Pradesh,lucknow,35,657,hospital,9918101001,Gayatri Hospital,,,,4/27/2021 14:35:00
+214,West Bengal,kolkata,37,707,hospital,3323202122,Bypass Apollo ,,,,4/27/2021 14:35:00
+215,Uttarakhand,rudraprayag,36,692,hospital,1234567890,Rudraprayag Covid Beds,Rudraprayag,rudraprayag,,
+216,Madhya Pradesh,indore,21,332,hospital,9826019722,Prashanti Hospital,,,,4/27/2021 14:36:00
+217,Telangana,hyderabad,33,571,hospital,7995947615,Wellness Hospital,dharam karam road ameerpet,hyderabad,,05/08/21 19:32
+218,Uttar Pradesh,lucknow,35,657,hospital,9196555555,Midland Healthcare,"B-55 &, C-42, Mandir Marg, Mahanagar Extension, Mahanagar, Lucknow, Uttar Pradesh 226006",lucknow,0522 4042888,
+219,Maharashtra,pune,22,387,hospital,9420696893,"Sky Clinic, Kondhwa, ",,,,4/24/2021 16:19:00
+220,Uttar Pradesh,lucknow,35,657,hospital,9935672929,Fehmina  Hospital & Trauma Center,"Turiyaganj-Victoria Ganj, Near Sunni Inter College, Lucknow, Uttar Pradesh 226003",lucknow,,
+221,Uttar Pradesh,lucknow,35,657,hospital,8005384903,Sanjay Gandhi Postgraduate Institute of Medical Sciences,"New PMSSY Rd, Raibareli Rd, Lucknow, Uttar Pradesh 226014",lucknow,9415189124,
+222,Uttarakhand,dehradun,36,687,hospital,8449992512,Dishrit,,,,
+223,Uttar Pradesh,lucknow,35,657,hospital,9956829273,JP Hospital Lucknow,"Near shukla chauraha, Lucknow, Uttar Pradesh 226021",lucknow,,
+224,Uttar Pradesh,lucknow,35,657,hospital,9555693316,Sushma Hospital,"CP 102, Sector-08, Faizabad Raod, Indira Nagar, Lucknow",lucknow,9838641122,
+225,Rajasthan,pratapgarh,30,525,hospital,1478222004,District Hospital Pratapgarh,,,,4/24/2021 4:01pm
+226,Chhattisgarh,raipur,10,148,hospital,9826930503,covid care center,"nawapara, chc gobara",,,
+227,Uttar Pradesh,lucknow,35,657,hospital,8795777725,Sahara Hospital,"Sahara Hospital Rd, Viraj Khand - 1, Viraj Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",lucknow,0522 678 0001,
+228,Uttar Pradesh,lucknow,35,657,hospital,9839165078,Vaga Hospital ,"KS-14 Aliganj Housing scheme, Sitapur Rd, Lucknow, Uttar Pradesh 226020",lucknow,9682000028,
+229,Madhya Pradesh,bhopal,21,319,hospital,9993420548,hospital ,"Goodwill hospital 77,near police",,,
+230,Uttar Pradesh,lucknow,35,657,hospital,9415022002,Advance Neuro & General Hospital,"Arjunganj, Sarsawan, Uttar Pradesh 226002",lucknow,,
+231,Uttar Pradesh,lucknow,35,657,hospital,9935090396,Nova Hospital,"1, Patrakarpuram Crossing Rd, Vikas Khand 1, Vishal Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",lucknow,0522 2300024,
+232,Uttar Pradesh,lucknow,35,657,hospital,9554222666,Shiva Hospital,"Kamta Crossing, Gomati Nagar, Lucknow",lucknow,,
+233,Madhya Pradesh,bhopal,21,319,hospital,9425079117,Hamidia Hospital,,,,4/25/2021 19:27:00
+234,Gujarat,vadodara,14,198,hospital,9601702202,Bhailal Amin General Hospital,,,2652556222,4/24/2021 14:26:00
+235,Uttar Pradesh,lucknow,35,657,hospital,9450407843,Sri Sai LIfe Hospital,"Kalli Paschim Raibareilly Road, Lucknow",lucknow,,
+236,Uttar Pradesh,lucknow,35,657,hospital,9956829273,J P Hospital,"Near shukla chauraha, Kursi Road, Lucknow, Uttar Pradesh 226021",lucknow,,
+237,Uttar Pradesh,lucknow,35,657,hospital,8853545555,Sri Sai Hospital,"Plot No.85, Kursi Rd, Near Sanatan Ashram, Gaurabagh, Lucknow, Uttar Pradesh 226026",lucknow,,
+238,Madhya Pradesh,indore,21,332,hospital,9826031212,Gokuldas Hospital,,,,4/23/2021 18:07:00
+239,Uttar Pradesh,lucknow,35,657,hospital,9235004999,Rockland Trauma & Critical Care,"Surya palace, 439B, 265 (240CC, NAGARIYA, Thakurganj, Balaganj, Lucknow, Uttar Pradesh 226003",lucknow,,
+240,Dadra and Nagar Haveli and Daman & Diu (UT),diu,11,155,hospital,2875254651,District Hospital,,,,4/27/2021 2:35pm
+241,Maharashtra,mumbai city,22,378,hospital,7558572888,SS Hospital,Thane,mumbai,,
+242,West Bengal,kolkata,37,707,hospital,3366063800,Amri Hospital,,,,4/27/2021 14:35:00
+243,Jharkhand,dumka,18,259,hospital,1234567890,Hospital Beds - Dumka,,dumka,,
+244,Uttarakhand,uttarkashi,36,695,hospital,1234567890,Uttar Kashi Covid Beds,Uttar Kashi,uttar kashi,,
+245,Uttarakhand,tehri garhwal,36,693,hospital,1376232280,District Hospital,,,,4/23/2021 3:25pm
+246,Bihar,gaya,8,97,hospital,1234567890,Hospital Beds - Gaya,,gaya,,
+247,Bihar,saharsa,8,115,hospital,1234567890,Hospital Beds - Saharsa,,saharsa,,
+248,Maharashtra,mumbai city,22,378,hospital,022-67676766,SevenHill Hospital,Andheri East,mumbai,,
+249,Bihar,muzaffarpur,8,109,hospital,1234567890,Hospital Beds - Muzaffarpur,,muzaffarpur,,
+250,Jharkhand,dhanbad,18,258,hospital,1234567890,Hospital Beds - Dhanbad,,dhanbad,,
+251,Uttar Pradesh,lucknow,35,657,hospital,9076612575,Tender Palm Hospital,"Amar Shaheed Path, Sector 7, Gomti Nagar, Lucknow, Uttar Pradesh 226001",lucknow,,
+252,Puducherry (UT),mahe,28,475,hospital,7025348152,"Govt. General Hospital,",,,,4/23/2021 18:35:00
+253,Uttar Pradesh,lucknow,35,657,hospital,080527 56777,Relief Hospital ,"AHIBARANPUR, TRIVENI NAGAR, Sitapur Rd, NH24, Lucknow, Uttar Pradesh 226020",lucknow,,
+254,Bihar,rohtas,8,114,hospital,1234567890,Hospital Beds - Rohtas,,rohtas,,
+255,Uttar Pradesh,lucknow,35,657,hospital,9415048891,Azad Nagar Hospital,,lucknow,,
+256,Telangana,hyderabad,33,571,hospital,9849055293,Gsn Hospital,sr nagar,hyderabad,,
+257,Maharashtra,mumbai city,22,378,hospital,91728 15943 ,Mangala Hospital,"bamandaya pada, Andheri East, Mumbai, Maharashtra 400072",mumbai,,
+258,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9886111275,Colombia Asia Hospital Yeshwanthpura,,bangalore,,
+259,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9880795495,Balaji Hospital K .R puram ,,bangalore,,5/8/21 18:38
+260,Meghalaya,south west khasi hills,24,421,hospital,8837367750,Mairang Civil Hospital,,,9436706852,4/27/2021 2:41pm
+261,Bihar,purnia (purnea),8,113,hospital,1234567890,Hospital Beds - Purnia,,purnia,,
+262,Uttar Pradesh,lucknow,35,657,hospital,        9984513306; 9555949380,Ram Sagar Mishra Hospital,Sadhamau DCH Uttar Pradesh,lucknow,8756858220,
+263,Uttar Pradesh,lucknow,35,657,hospital,9336285050,Astha Hospital,Aliganj Lucknow,lucknow,,
+264,Meghalaya,ri bhoi,24,418,hospital,8794784116,Civil Hospital Nongpoh,,,9436110561,4/23/2021 17:38:00
+265,Delhi (NCT),north west delhi,12,161,hospital,7982046610,Kukreja Hospital and heart centre (Private),Rajouri Garden,,,11:52 AM
+266,Maharashtra,mumbai city,22,378,hospital,8591429426,NA( Makeshift hospital) ,Bharubhai Hall- Kandivali West ,mumbai,,
+267,Maharashtra,mumbai city,22,378,hospital,7058800800,Platinum Hospital,Mulund,mumbai,,
+268,Uttar Pradesh,lucknow,35,657,hospital,05222423340,Lok Bandhu Raj Narayan Hospital,"Chinhat, Lucknow, Uttar Pradesh 226028",lucknow,9451034486,
+269,Gujarat,valsad,14,199,hospital,8141655355,Lotus Hospital,,,2632244017,4/23/2021 21:10:00
+270,Maharashtra,mumbai city,22,378,hospital,022 2595 3232,Criticare Hospital,Bhandup,mumbai,7738633888,
+271,Uttar Pradesh,lucknow,35,657,hospital,0522-7118214;'0522-7118216,Atharv Multispeciality Hospital,"Power House, H/4 Sector-e Amarpali Yojana Near IIM, Dubagga Rd, Lucknow, Uttar Pradesh 226000",lucknow,8299221137,
+272,Uttar Pradesh,lucknow,35,657,hospital,9415799329,Kova Hospital,"Plot number 6 , Sector-15, TO, Munshipulia Chouraha, Indira Nagar, Lucknow, Uttar Pradesh 226016",lucknow,9648768788,
+273,Uttar Pradesh,lucknow,35,657,hospital,8052644444,Balrampur Hospital,"Qaisar Bagh, Lucknow, Uttar Pradesh 226018",lucknow,,
+274,Maharashtra,mumbai city,22,378,hospital,9324385177,RM Hospital ,"A wing; Shop no-1,2,51 & Office no- 1,2,26,27; Pooja Enclave, DP Rd, opp. Ganesh Nagar, near Atharva College, Kandivali West, Mumbai, Maharashtra 40006",mumbai,,
+275,Uttar Pradesh,lucknow,35,657,hospital,9794833532,Northern Railway Divisional Hospital,Ananad Nagar Charbagh Lucknow 226005,lucknow,9794833500,
+276,Karnataka,bengaluru (bangalore) urban,19,283,hospital,080 2526 6994,ESI Hospital,"7th Main Rd, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",bangalore,,
+277,Karnataka,bengaluru (bangalore) urban,19,283,hospital,080 2502 7000,Manipal Hospitals Whitefield ,"TPL Main Rd, KIADB Export Promotion Industrial Area, Krishnarajapura, Bengaluru, Karnataka 560066, India",bangalore,,
+278,Maharashtra,mumbai suburban,22,379,hospital,9820695163,"LifeLine Hospitals,Aeroli","Akansha Co-Operative Society, Airoli, Navi Mumbai - 400708, Opposite Airoli Station Road, Sector No 3",navi mumbai,,
+279,Uttarakhand,nainital,36,689,hospital,1234567890,Nainital Covid Beds,Nainital,nainital,,
+280,Bihar,araria,8,87,hospital,1234567890,Hospital Beds - Arraria,,araria,,
+281,Uttarakhand,bageshwar,36,684,hospital,1234567890,Bageshwar Covid Beds,Bageshwar,kolhapur,,
+282,Jharkhand,east singhbhum,18,260,hospital,1234567890,Hospital Beds - East Singhbhum,,east singhbhum,,
+283,Bihar,lakhisarai,8,105,hospital,1234567890,Hospital Beds - Lakhisarai,,lakhisarai,,
+284,Bihar,patna,8,112,hospital,8434604309,Hospital,Saket Hospital,,,
+285,Bihar,vaishali,8,123,hospital,1234567890,Hospital Beds - Vaishali,,vaishali,,
+286,Delhi (NCT),south delhi,12,163,hospital,8588890999,Majeeda Hospital Delhi,Hamdard Nagar,hamdard nagar,,
+287,Delhi (NCT),new delhi,12,158,hospital,6398377083,Hospital ,"Burari hospital, sant nirankari sargam ground",,,
+288,Uttar Pradesh,lucknow,35,657,hospital,8953289849,Mayo Hospital,lucknow,,,
+289,Bihar,patna,8,112,hospital,8294878472,Hospital,central hospital patna,,,
+290,Delhi (NCT),new delhi,12,158,hospital,9650203070,Tulsi Multispeciality Hospital & critical Cre Unit ,,,,11:52 AM
+291,Delhi (NCT),new delhi,12,158,hospital,8046820570,hospita;,loknayak hospital,,,
+292,Uttar Pradesh,lucknow,35,657,hospital,9904077774,Altis Hospital," IIM Road, Madiyanva, Mutkkipur, Uttar Pradesh 226020",lucknow,,
+293,West Bengal,north 24 parganas,37,711,hospital,3325527421,Chhoto Jagulia B.P.H.C.,,,,4/27/2021 14:35:00
+294,Uttar Pradesh,lucknow,35,657,hospital,8756095989,Metro Hospital & Trauma Centre,"1/25, Bypass Rd, Vijay Khand, Vijay Khand 2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",lucknow,8896650786,
+295,Uttarakhand,almora,36,683,hospital,1234567890,Almora Covid Beds,Almora,almora,,
+296,Uttar Pradesh,shahjahanpur,35,674,hospital,9927167788,Rohilkhand Hospital,,,9358617603,4/22/2021 18:33:00
+297,Uttar Pradesh,lucknow,35,657,hospital,9076610273,Urmila Hospital,"2/6B Adarsh park Road Near St Joseph School, Priyadarshini Colony",lucknow,9455020306,5/6/2021 12:30
+298,Gujarat,surat,14,200,hospital,7567443733,Mahavir Hospital,,,261408200,4/24/2021 12:23:00
+299,Uttar Pradesh,lucknow,35,657,hospital,9415010868,King George's Medical Centre,"Shah Mina Rd, Chowk, Lucknow, Uttar Pradesh 226003",lucknow,9415119740,
+300,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9916088888,Akash Hospital Devanahalli ,,bangalore,,5/8/21 18:42
+301,Uttar Pradesh,bareilly,35,622,hospital,5812530800,Khuslok Hospital,,,9760701234,4/27/2021 14:35:00
+302,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9481523480,Sri Lakshmi Hosptials Kaggadasanapura,,bangalore,,5/8/21 18:44
+303,Uttar Pradesh,lucknow,35,657,hospital,7860021982,Gayatri Hospital & Trauma Centre,"20, Lucknow - Faizabad Rd, Kailash Kunj, Ravindra Palli, Lucknow, Uttar Pradesh ",lucknow,9918101001,
+304,Uttar Pradesh,lucknow,35,657,hospital,9415140789,Nishat Hospital,"Mosque, 3, J.C.Bose Marg, Kaiserbagh Officer's Colony, Lalbagh, Lucknow, Uttar Pradesh 226001",lucknow,9936238051,
+305,Uttar Pradesh,lucknow,35,657,hospital,8429029801,Apollomedics Super Speciality Hospitals,"KBC 31, Kanpur - Lucknow Rd, Sector B, LDA Colony, Lucknow, Uttar Pradesh 226012",lucknow,077050 02277,
+306,Uttar Pradesh,bijnor,35,625,hospital,7055754433,An Care And Cure Multispeciality Hospital And Trauma Centre,,,7055754433,4/22/2021 18:39:00
+307,Uttar Pradesh,lucknow,35,657,hospital,9919666077,Radha Krishnam Sarkar Multispeciality Hospital,"63-A, Krishna Nagar, Lucknow",lucknow,,
+308,Uttar Pradesh,lucknow,35,657,hospital,9198415555,Revanta Hospital,"Near LIC Office, Sarfarazganj, Hardoi Rd, Balaganj, Lucknow, Uttar Pradesh 226003",lucknow,,
+309,Maharashtra,mumbai city,22,378,hospital,022-23082714,Nair Hospital,Mumbai Central,mumbai,,
+310,Bihar,darbhanga,8,95,hospital,1234567890,Hospital Beds - Darbhanga,,darbhanga,,
+311,Bihar,katihar,8,102,hospital,1234567890,Hospital Beds - Katihar,,katihar,,
+312,Gujarat,surat,14,200,hospital,9978807619,Nirmal Hospital,,,,4/24/2021 13:52:00
+313,Uttar Pradesh,lucknow,35,657,hospital,9455577777,Mercy Hospital,"Ring Road, Near Tedhi Pulia",lucknow,,
+314,Maharashtra,mumbai city,22,378,hospital,87797 82434,Rajpal Hospital,Navi Mumbai ,mumbai,,
+315,Madhya Pradesh,bhopal,21,319,hospital,9993366621,Chirayu Hospital,,,,4/25/2021 19:28:00
+316,Maharashtra,mumbai city,22,378,hospital,77000 19043,Venus Hospital,Ghansoli,mumbai,,
+317,Uttar Pradesh,lucknow,35,657,hospital,8400000643,GCRG Hospital,"Chandrika Devi Rd, Bakshi Ka Talab, Lucknow, Uttar Pradesh 226001",lucknow,9450020898,
+318,Uttar Pradesh,kanpur dehat,35,650,hospital,7572066699,D.S Memorial Hospital,,,7572066699,4/27/2021 14:35:00
+319,Uttar Pradesh,allahabad,35,610,hospital,9839054661,Kamala Nehru Memorial Hospital,,,9792926555,4/22/2021 14:16:00
+320,Uttar Pradesh,lucknow,35,657,hospital,9990870070,ESIC Hospital,Sarojini Nagar,lucknow,05222473814,
+321,Uttar Pradesh,azamgarh,35,615,hospital,8726000000,Life Line Hospital,,,8726031223,4/22/2021 14:39:00
+322,Haryana,gurgaon,15,206,hospital,9811355275,Covid Care Centre - Gurugram,"Tribo Trend Blooms Premier, #591, Sector-56, Gurugram",gurgaon,,
+323,Telangana,hyderabad,33,571,hospital,9492035398,Vinn Hospital,"7-1-21, Railway Station Rd, opp. Metro Station Begumpet, Uma Nagar, Begumpet, Hyderabad, Telangana 500016",hyderabad,,
+324,Rajasthan,sri ganganagar,30,530,hospital,9414090854,"Jan Sewa Hospital, Tantia University",,,,4/27/2021 2:41pm
+325,Uttar Pradesh,lucknow,35,657,hospital,9588160614,Ambulance Services ,,,,4/27/2021 14:35:00
+326,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9448077253,Mallige Hospital Sheshadripuram,,bangalore,,5/8/21 18:32
+327,Maharashtra,mumbai city,22,378,hospital,022-71979797,Reliance Hospital,Navi Mumbai ,mumbai,,
+328,Telangana,hyderabad,33,571,hospital,9182327901,Supraja hospital,,hyderabad,,
+329,Uttar Pradesh,lucknow,35,657,hospital,0522-2851181,CIMS Hospital,"Sitapur - Hardoi Bypass Road, Near I.I.M., Ghailla, Lucknow, Uttar Pradesh 226020",lucknow,0522 296 0439,
+330,West Bengal,howrah,37,704,hospital,3326530114,"Esi Hospital, Batikuri",,,,4/24/2021 12:48pm
+331,Gujarat,gandhinagar,14,180,hospital,8980002120,Goenka Hospital,,,,4/24/2021 13:09:00
+332,Uttar Pradesh,lucknow,35,657,hospital,9450374007,A-One Hospital,"labour ada, Pakkapul Bandha Rd, Adarsh Puram, Fazullaganj, Lucknow, Uttar Pradesh 226020",lucknow,,
+333,Kerala,kottayam,1,5,hospital,9447239277,Medical College Hospital,,,,4/22/2021 18:09:00
+334,Rajasthan,sikar,30,528,hospital,9783859589,Shri Ram Trauma & Super Specialty Hospital,,,,4/24/2021 12:28:00
+335,Uttar Pradesh,lucknow,35,657,hospital,9696586266,Charak Hospital ,"Jehta Road, Lucknow",lucknow,,
+336,Uttar Pradesh,allahabad,35,610,hospital,7007610062,United Medicity,,,9721277444,4/22/2021 14:10:00
+337,Uttar Pradesh,baghpat,35,616,hospital,9811171555,Sarvodaya Hospital And Institute Of Medical Science,,,9811171555,4/22/2021 14:45:00
+338,Bihar,muzaffarpur,8,109,hospital,8923256659,Muzaffarnagar Medical College,,,9988682822,4/27/2021 14:42:00
+339,Uttar Pradesh,bhadohi,35,624,hospital,9451660072,Pratima Hospital And Truama Centre,,,9451660072,4/22/2021 15:10:00
+340,Uttarakhand,chamoli,36,685,hospital,1234567890,Chamoli Covid Beds,Chamoli,chamoli,,
+341,Maharashtra,mumbai city,22,378,hospital,022 4222 7777,Guru Nanak Hospital,Bandra East,mumbai,,
+342,Maharashtra,mumbai city,22,378,hospital,93215 76570,Holy Family Hospital ,Andheri East,mumbai,,
+343,Bihar,madhubani,8,107,hospital,1234567890,Hospital Beds - Madhubani,,madhubani,,
+344,West Bengal,hooghly,37,703,hospital,3326312827,"Esi Hospital, Bandel",,,,4/22/2021 6:37pm
+345,Bihar,munger (monghyr),8,108,hospital,1234567890,Hospital Beds - Munger,,munger,,
+346,Uttar Pradesh,mathura,35,661,hospital,7055704533,Nayati Multi Super Speciality Hospital,,,7088565565,5/1/2021 19:43:42
+347,Uttar Pradesh,lucknow,35,657,hospital,9415020266,Maa Chandrika Devi Hospital,"Bargadi, Bakshi Ka Talab, Lucknow, Uttar Pradesh 226016",lucknow,9140190282,
+348,Telangana,hyderabad,33,571,hospital,8919794204,Sri Chinnmayee Hospital,"Gayatri Nagar, Karmanghat, Hyderabad",hyderabad,,05/08/21 19:35
+349,Telangana,hyderabad,33,571,hospital,49170134,Vitality Hospital,"Vivekananda Colony, Kukatpally",hyderabad,,05/08/21 19:35
+350,West Bengal,kolkata,37,707,hospital,9903335544,Rn Tagore  International Institute Of Cardiac  Science,,,,4/23/2021 20:19:00
+351,Telangana,hyderabad,33,571,hospital,9704936019,Nova ent hospital,"6-3-652-2, Punjagutta rd, nova ent complex, raj bhavan quarters colony,somajiguda",hyderabad,7729949575,
+352,Telangana,hyderabad,33,571,hospital,8374325678,Legend Hospital,vanasthalipuram,hyderabad,,
+353,Telangana,hyderabad,33,571,hospital,8520041688,Lotus Cure Hospital,Tirumalgiri ,hyderabad,,
+354,Telangana,hyderabad,33,571,hospital,8497971166,Raksha Multispeciality Hospital,,hyderabad,,
+355,Gujarat,amreli,14,169,hospital,9879932842,Astha Hospital,,,2792221828,4/22/2021 2:25pm
+356,Gujarat,navsari,14,190,hospital,9913644268,Mulla Hospital,,,2637239980,4/23/2021 8:02pm
+357,Maharashtra,mumbai city,22,378,hospital,022-68814200,Upasani Hospital,Mulund,mumbai,,
+358,Uttarakhand,pithoragarh,36,691,hospital,5964225687,District Hospital,,,,4/23/2021 5:46pm
+359,Meghalaya,east garo hills,24,414,hospital,7005324601,Civil Hospital Williamnagar,,,,4/23/2021 17:03:00
+360,Uttar Pradesh,sonbhadra,35,679,hospital,9621407820,Sainath Holistic Hospital,,,9125026751,4/27/2021 14:35:00
+361,Telangana,hyderabad,33,571,hospital,9866349244,srritcd fever hospital,Nallakunta,hyderabad,,05/08/21 19:38
+362,Telangana,hyderabad,33,571,hospital,8977000077,Paramitha Hospital,Kompally,hyderabad,,
+363,West Bengal,kolkata,37,707,hospital,3340156789,Divine  Nursing Home,,,,4/27/2021 14:42:00
+364,Gujarat,surat,14,200,hospital,9428636999,Sanjivani Hospital Lalgate,,,,4/23/2021 18:13:00
+365,Uttar Pradesh,kaushambi,35,653,hospital,9161722518,Tejmati Hospital,,,9919494114,4/24/2021 12:38:00
+366,Tamil Nadu,chennai,32,538,hospital,04426644451,Billroth Hospital Shenoynagar,,chennai,,
+367,Gujarat,banaskantha (palanpur),14,172,hospital,7574909990,Life Line Icu,,,,4/22/2021 2:46pm
+368,Gujarat,bharuch,14,173,hospital,9325358536,Sevashram Hospital,,,2642243493,4/22/2021 3:37pm
+369,Uttar Pradesh,bareilly,35,622,hospital,8192000288,Rajshree Medical Research Institute & Hospital Bareilly,,,,
+370,Uttar Pradesh,lucknow,35,657,hospital,9415162686,Rajdhani Hospital,"Raebareli Road, Lucknow",lucknow,522 3583966,
+371,Rajasthan,alwar,30,501,hospital,1442332104,Sant Sukhdev Hospital,,,,4/22/2021 2:19pm
+372,West Bengal,howrah,37,704,hospital,9051675050,Narayana Superspeciality Hospital,,,,4/23/2021 5:56pm
+373,Uttar Pradesh,lucknow,35,657,hospital,6392678013,City Max Hospital,,lucknow,,
+374,Gujarat,bhavnagar,14,174,hospital,9925537507,Hcg Hospital,,,2786640000,4/27/2021 14:38:00
+375,West Bengal,kolkata,37,707,hospital,3330903090,Cmri,,,,4/23/2021 18:38:00
+376,Uttar Pradesh,mathura,35,661,hospital,9837085747,LR Hospital and Trauma Centre,,,,5/1/2021 19:56:19
+377,Gujarat,valsad,14,199,hospital,2632244168,Kasturba Hospital,,,,4/23/2021 20:07:00
+378,Uttar Pradesh,lucknow,35,657,hospital,9830310964,Base (Army) Hospital Lucknow,"Lal Bahadur Shastri Marg, Neil Lines, Cantonment, Lucknow, Uttar Pradesh 226002",lucknow,,
+379,Uttar Pradesh,aligarh,35,609,hospital,8941095375,Rusa Medical Centre,,,,4/22/2021 14:11:00
+380,Delhi (NCT),new delhi,12,158,hospital,01126655959; 01126655969,Sardar Patel Covid Care Centre,"Radha Soami Beas, Chattarpur, New Delhi",delhi,,
+381,Gujarat,panchmahal (godhra),14,191,hospital,9998076393,Sunrise Hospital,,,,4/24/2021 12:46pm
+382,Uttar Pradesh,lucknow,35,657,hospital,9415004535,Baba Hospital,"56, Deva Rd, Khand -2, Matiyari, Chinhat, Lucknow, Uttar Pradesh 226028",lucknow,8756946666,
+383,Meghalaya,east garo hills,24,414,hospital,9863085357,Robert Gordon Hospital Shillong,,,,4/23/2021 18:41:00
+384,Jharkhand,chatra,18,256,hospital,1234567890,Hospital Beds - Chatra,,chatra,,
+385,Karnataka,raichur,19,301,hospital,8532238489,Rims,,,,4/27/2021 2:35pm
+386,West Bengal,howrah,37,704,hospital,3326611014,"Esi Hospital, Uluberia",,,,4/23/2021 7:40pm
+387,Chhattisgarh,raipur,10,148,hospital,7509066652,vijay jaiswal,maa sharda hospital,,,
+388,Maharashtra,mumbai city,22,378,hospital,912222700007,BMS Mumbai medical helpline,,,,
+389,Uttar Pradesh,kanpur nagar,35,651,hospital,9889948389,PPM Multispeciality Hospital Pvt Ltd,,,9839885568,4/23/2021 14:05:00
+390,Maharashtra,mumbai city,22,378,hospital,912223797901,BMS Mumbai medical helpline,,,,
+391,Gujarat,surat,14,200,hospital,9924448034,Mission Hospital,,,2612667591,4/24/2021 12:34:00
+392,Gujarat,banaskantha (palanpur),14,172,hospital,9978627588,Dev Icu,,,2742261262,4/22/2021 2:47pm
+393,Uttar Pradesh,gorakhpur,35,641,hospital,9416313813,Aanandlok Remedila Research Centre Pvt Ltd,,,9416313813,4/23/2021 20:34:00
+394,Madhya Pradesh,indore,21,332,hospital,9827272418,Shri Arihant Hospital & Research Centre Indore,,,,4/27/2021 14:40:00
+395,Haryana,palwal,15,215,hospital,01275-252102,Civil hospital ,"Palwal, Near Agara Chawk, Haryana  ",palwal,,25 April 11:30
+396,Karnataka,bengaluru (bangalore) urban,19,283,hospital,8066214444,Fortis Hospital,,,9663367253,4/22/2021 15:08:00
+397,Gujarat,navsari,14,190,hospital,8140632252,Shraddha Hospital,,,2637246333,4/22/2021 5:59pm
+398,Puducherry (UT),karaikal,28,474,hospital,9524527374,Government General Hospital,,,,4/23/2021 17:28:00
+399,Uttar Pradesh,ghazipur,35,639,hospital,8175852700,R.S Hospital,,,8175852700,4/27/2021 14:42:00
+400,Gujarat,tapi (vyara),14,197,hospital,9624077465,Rhythem Hospital Vyara,,,,4/22/2021 6:37pm
+401,Karnataka,dharwad,19,291,hospital,8362372681,Karanataka Institute Of Medical College,,,,4/23/2021 17:17:00
+402,Gujarat,chhota udepur,14,176,hospital,9998882401,Sangam Hospital,,,,4/23/2021 6:55pm
+403,Uttar Pradesh,budaun,35,626,hospital,9818059321,Dr Ram Niwas Gupta Hospital,,,9818059321,4/27/2021 14:41:00
+404,Rajasthan,jodhpur,30,520,hospital,2912438655,Mathuradas Mathur Hospital,,,,4/23/2021 19:36:00
+405,Rajasthan,hanumangarh,30,514,hospital,1504225118,"Vivekanand Swasthay Sewa Samiti Hospital, Bhadra",,,,4/23/2021 6:09pm
+406,Dadra and Nagar Haveli and Daman & Diu (UT),dadra & nagar haveli,11,153,hospital,2602630102,Vinobha bhave civil hospital,,,2602642940,
+407,Uttar Pradesh,mathura,35,661,hospital,9720541461,Shri Om Hospital Mathura,,,,5/1/2021 19:54:00
+408,Rajasthan,jodhpur,30,520,hospital,8764505002,AIIMS JODHPUR,,,,4/27/2021 14:35:00
+409,Madhya Pradesh,indore,21,332,hospital,7024064109,Index Medical College,,,,4/24/2021 12:52:00
+410,Rajasthan,hanumangarh,30,514,hospital,9166168400,Hissaria Multispecialty Hospital,,,,4/23/2021 7:18pm
+411,Uttar Pradesh,kaushambi,35,653,hospital,9792970924,Navjeevan Hospital,,,9792203208,4/22/2021 18:14:00
+412,Gujarat,rajkot,14,194,hospital,9696796964,Salus Hospital,,,2812587100,4/24/2021 15:27:00
+413,Madhya Pradesh,indore,21,332,hospital,7224051000,Sri Aurobindo Institute of Medical Sciences,,,,4/22/2021 17:37:00
+414,Gujarat,rajkot,14,194,hospital,7900108108,Gokul Hospital,,,2812550600,4/24/2021 15:50:00
+415,Madhya Pradesh,bhopal,21,319,hospital,7999623457,New Era Hospital,,,,4/25/2021 19:39:00
+416,Haryana,jind,15,209,hospital,1681247287,Delhi hospitaal and maternity home,,,,4/27/2021 14:38:00
+417,Gujarat,navsari,14,190,hospital,9099455081,Parsi Hospital,,,2637258021,4/23/2021 8:07pm
+418,Kerala,thiruvananthapuram,1,1,hospital,9447834808,Medical College Hospital,,,,4/23/2021 21:08:00
+419,Uttar Pradesh,saharanpur,35,671,hospital,8477001718,Medigram The Superspeciality Hospital,,,8477001718,4/24/2021 13:55:00
+420,Haryana,jind,15,209,hospital,1681253020,Balaji hospital jind,,,,4/24/2021 16:14:00
+421,Gujarat,dahod,14,177,hospital,9824267168,Zydus Hospital,,,,4/27/2021 2:35pm
+422,West Bengal,kolkata,37,707,hospital,3340309999,Institute Of Neurosciences,,,,4/23/2021 19:24:00
+423,West Bengal,murshidabad,37,709,hospital,9933344441,Gitaram Private Hospital,,,,4/23/2021 4:50pm
+424,Gujarat,navsari,14,190,hospital,7990106300,Gohil Hospital,,,2637259225,4/23/2021 4:53pm
+425,Karnataka,chikkamagaluru (chikmagalur),19,287,hospital,8262235213,Aralaguppe Mallegowda District Hospital,,,,4/23/2021 7:55pm
+426,Rajasthan,churu,30,510,hospital,1562250333,D.B Hospital Churu,,,,4/23/2021 5:58pm
+427,Gujarat,valsad,14,199,hospital,9825120393,Amit Hospital,,,2632302000,4/27/2021 14:38:00
+428,West Bengal,darjeeling,37,702,hospital,9933356081,Medica Hospital,,,,4/24/2021 3:24pm
+429,Uttar Pradesh,sultanpur,35,680,hospital,9415156212,Navjeevan Krushnay Mission,,,9415156212,4/27/2021 14:35:00
+430,Gujarat,surat,14,200,hospital,9879955855,Unity Hosp,,,,4/27/2021 14:38:00
+431,Madhya Pradesh,indore,21,332,hospital,9826730066,Synergy Hospital,,,,4/27/2021 14:35:00
+432,Uttar Pradesh,lucknow,35,657,hospital,8826602001,Ambulance ,,,,4/27/2021 14:35:00
+433,Gujarat,anand,14,170,hospital,9510250273,Zydus Hospital,,,2692619501,4/22/2021 2:26pm
+434,Gujarat,rajkot,14,194,hospital,9512140048,Synergy Hospital,,,2816195000,4/23/2021 20:13:00
+435,Uttar Pradesh,sultanpur,35,680,hospital,9415046034,Astha Hospital,,,9415394340,4/24/2021 13:57:00
+436,West Bengal,burdwan (bardhaman),37,699,hospital,8687500500,Mission Hospital,,,,
+437,Kerala,idukki,1,6,hospital,9746686957,Al Azhar Medial College Hospital Thodopuzha,,,,4/23/2021 18:03:00
+438,Uttarakhand,udham singh nagar,36,694,hospital,5944250462,District Hospital,,,,4/23/2021 7:48pm
+439,West Bengal,kolkata,37,707,hospital,3366284444,Fortis  Hospital Ltd.,,,,4/22/2021 17:36:00
+440,Uttar Pradesh,basti,35,623,hospital,9415607398,SR Hospital And Medical Institute,,,9415607398,4/27/2021 14:35:00
+441,Rajasthan,sawai madhopur,30,527,hospital,7462234364,Ranthambore Sewika Hospital,,,,4/23/2021 5:35pm
+442,Gujarat,navsari,14,190,hospital,9327660110,Yashfeen Hospital,,,2637235726,4/23/2021 2:13pm
+443,Gujarat,surat,14,200,hospital,9925909424,Malaviya Hosp,,,2612767669,4/23/2021 19:37:00
+444,Madhya Pradesh,indore,21,332,hospital,7987265819,Sai Ram hospital,,,,4/24/2021 16:08:00
+445,Gujarat,anand,14,170,hospital,9825717481,Krishna Hospital,,,2692222130,4/22/2021 2:29pm
+446,Meghalaya,south west khasi hills,24,421,hospital,9615683665,Civil Hospital Nongstoin,,,9856084064,4/22/2021 3:21pm
+447,Tamil Nadu,chennai,32,538,hospital,18005721051,Welcarehealth Systems Pvt Ltd Teleophthalmology,,,,4/23/2021 17:33:00
+448,Kerala,kannur,1,13,hospital,9446420557,Medical College Hospital Kannur,,,,4/23/2021 19:28:00
+449,Gujarat,surat,14,200,hospital,9510731319,Surat Gen Hosp,,,,4/23/2021 19:33:00
+450,Uttar Pradesh,mau,35,662,hospital,9839510050,Sharda Narayan,,,9415884590,4/27/2021 14:42:00
+451,Kerala,kozhikode,1,11,hospital,9447760932,Medical College Hospital,,,,4/22/2021 18:07:00
+452,Uttarakhand,almora,36,683,hospital,9412315001,Goverdhan Tiwari Govt. Hospital,,,,4/27/2021 2:35pm
+453,Rajasthan,pali,30,524,hospital,7357399107,"Govt. Bangur Hospital, Pali",,,,4/23/2021 8:32pm
+454,Gujarat,rajkot,14,194,hospital,9427735010,Vedant Hospital,,,2812442722,4/23/2021 16:23:00
+455,Uttar Pradesh,mathura,35,661,hospital,8279436773,Gopi krishna hospital,,,,5/1/2021 20:02:18
+456,Gujarat,mehsana,14,187,hospital,9824072936,"Krishna Multyspeciality Hospital, Visnagar",,,6355955980,4/24/2021 14:03:00
+457,Gujarat,bharuch,14,173,hospital,9727763840,Baroda Heart Hospital,,,2642260551,4/22/2021 3:41pm
+458,Gujarat,surat,14,200,hospital,9737855857,Lokhat Hosp,,,,4/22/2021 17:32:00
+459,Uttar Pradesh,shamali (prabuddh nagar),35,675,hospital,9917202020,Global Shanti Hospital,,,9917202020,4/24/2021 14:05:00
+460,Rajasthan,jodhpur,30,520,hospital,2912636441,MAHATMA GANDHI HOSPITAL JODHPUR,,,,4/27/2021 14:35:00
+461,Gujarat,surat,14,200,hospital,9825030000,Sardar Hosp,,,2612513555,4/23/2021 20:31:00
+462,Madhya Pradesh,indore,21,332,hospital,8818940404,My Hospital,,,,4/23/2021 20:20:00
+463,Uttar Pradesh,azamgarh,35,615,hospital,8070497070,Sahaj Hospital,,,9450200707,4/22/2021 14:44:00
+464,Uttar Pradesh,jhansi,35,648,hospital,7518910666,Lifeline Superspeciality Hospital And Heart Centre,,,9415030615,4/24/2021 14:09:00
+465,Uttar Pradesh,lucknow,35,657,hospital,9450020898,G.C.R.G Memorial Hospital,,,9793436666,4/22/2021 18:35:00
+466,West Bengal,kolkata,37,707,hospital,3323032200,Beleghata ID Hospital,,,,4/24/2021 16:24:00
+467,Uttar Pradesh,pratapgarh,35,668,hospital,1478222004,District Hospital Pratapgarh,,,,4/24/2021 16:01:00
+468,Uttar Pradesh,kanpur dehat,35,650,hospital,9935061618,Pawan Tanay Hospital,,,9935372222,4/22/2021 18:25:00
+469,Delhi (NCT),central delhi,12,156,hospital,8287972049,ventilator in central delhi at SVP COVID HOSPITAL,,delhi,,25th April at 1:32pm
+470,West Bengal,kolkata,37,707,hospital,3366003300,Columbia Asia Hospital,,,,4/27/2021 14:35:00
+471,Uttar Pradesh,lucknow,35,657,hospital,9140190282,Maa Chandrika Devi Hospital ,,,,4/27/2021 14:35:00
+472,Uttar Pradesh,lucknow,35,657,hospital,9452334488,Takrohi Hospital ,,,,4/27/2021 14:35:00
+473,Rajasthan,rajsamand,30,526,hospital,2952220033,RK District Hospital,,,,4/23/2021 9:07pm
+474,Uttar Pradesh,jhansi,35,648,hospital,9839777166,Chiranjeev Medical Centre,,,,4/24/2021 13:42:00
+475,Rajasthan,ajmer,30,500,hospital,1452603603,Mittal Hospital & Research Center,,,,4/22/2021 13:58:00
+476,Rajasthan,baran,30,503,hospital,9829915153,Priya Hospital,,,,4/22/2021 2:54pm
+477,Rajasthan,dausa,30,511,hospital,7877461931,Shri Ramkaran Joshi Dh Dausa,,,,4/27/2021 2:41pm
+478,Gujarat,kheda (nadiad),14,185,hospital,9925001632,N D Desai Medical College AndHospital,,,2682524455,4/23/2021 5:46pm
+479,Gujarat,surat,14,200,hospital,9429987616,Sanjivani Hospital Bhatar,,,2612238600,4/24/2021 13:59:00
+480,Uttar Pradesh,lucknow,35,657,hospital,9455170204,"Mercy hospital, LUCKNOW",,,,4/27/2021 14:35:00
+481,West Bengal,kolkata,37,707,hospital,3323585735,Calcutta Heart  Clinic,,,,4/24/2021 12:33:00
+482,Rajasthan,jaipur,30,515,hospital,9413378691,Vivekanand swasthay sewa samiti hospital,,,,4/25/2021 18:48:00
+483,Gujarat,bhavnagar,14,174,hospital,7574878801,Bajarandas Bapa Hospital,,,2782512353,4/22/2021 15:44:00
+484,Uttar Pradesh,bhadohi,35,624,hospital,9936042720,Jeevan Deep Hospital,,,9936042720,4/22/2021 15:12:00
+485,Gujarat,valsad,14,199,hospital,9825143381,Mrunal Hospital,,,2632243833,4/24/2021 13:08:00
+486,Uttar Pradesh,hapur (panchsheel nagar),35,643,hospital,9839077603,Rama Hospital,,,9818110469,4/23/2021 17:15:00
+487,West Bengal,kolkata,37,707,hospital,3340500501,Charnok  Hospital,,,,4/23/2021 18:03:00
+488,Uttar Pradesh,ghaziabad,35,638,hospital,9958172110,Atlanta Mediworld Multispeciality Hospital,,,9910992707,4/23/2021 18:49:00
+489,West Bengal,north 24 parganas,37,711,hospital,3325239058,College of Medicine and Sagore Dutta Hospital,,,,4/27/2021 14:35:00
+490,Uttar Pradesh,azamgarh,35,615,hospital,9999821212,Vendanta Hospital,,,9999821212,4/22/2021 14:44:00
+491,Rajasthan,bikaner,30,507,hospital,1512226331,Mch Wing Pbm Hospital,,,,4/24/2021 12:31:00
+492,Gujarat,surat,14,200,hospital,9824561261,Akshar Children Hosp,,,,4/23/2021 17:44:00
+493,Nagaland,dimapur,26,433,hospital,9099607609,Dimapur District Hospital,,,7085444710,4/27/2021 14:41:00
+494,Uttar Pradesh,kanpur nagar,35,651,hospital,9919068100,Rama Hospital And Research Centre,,,9818110469,4/23/2021 19:47:00
+495,Gujarat,gandhinagar,14,180,hospital,7575007702,Aashka Hospital,,,,4/23/2021 17:14:00
+496,West Bengal,kolkata,37,707,hospital,3322872321,Belle  Vue Clinic,,,,4/23/2021 19:41:00
+497,Uttar Pradesh,sultanpur,35,680,hospital,9415046590,Gomti Hospital And Reasearch Centre Pvt Ltd,,,9415046590,4/24/2021 14:01:00
+498,Rajasthan,udaipur,30,532,hospital,2942528811,"Super Specialty Building, Mbgh",,,,4/27/2021 14:41:00
+499,Gujarat,vadodara,14,198,hospital,9909117117,Sukan Hospital,,,2652490590,4/22/2021 16:46:00
+500,Uttar Pradesh,gorakhpur,35,641,hospital,9415339267,PS Hospital,,,,4/27/2021 14:35:00
+501,Telangana,hyderabad,33,571,hospital,7729006644,Kamineni Academy Of Medical Sciences,,,,4/22/2021 19:03:00
+502,Punjab,ludhiana,29,489,hospital,7573949408,Sms Hospital,,,,4/27/2021 14:35:00
+503,Uttar Pradesh,barabanki,35,621,hospital,8935002601,Mayo Institute Of Medical Science,,,8935002601,4/23/2021 13:41:00
+504,Karnataka,shivamogga (shimoga),19,303,hospital,8182269523,Mc Gann Teaching District Hospital,,,,4/23/2021 19:26:00
+505,West Bengal,kolkata,37,707,hospital,3324424242,Genesis  Hospital,,,,4/23/2021 17:58:00
+506,Madhya Pradesh,indore,21,332,hospital,9826049666,Mayur Hospital And Research Centre,,,,4/27/2021 14:40:00
+507,Uttar Pradesh,agra,35,608,hospital,9319122030,Peoples Heritage Hospital Pvt Ltd,,,9319122030,4/27/2021 14:35:00
+508,Gujarat,rajkot,14,194,hospital,9712811391,Vidit Hospital,,,2812468489,4/24/2021 15:32:00
+509,Uttar Pradesh,unnao,35,681,hospital,9889003206,Saraswathi Hospital And Research Centre,,,9889003206,4/24/2021 13:53:00
+510,Rajasthan,jaipur,30,515,hospital,1412223735,Railway Hospital Jaipur ,,,,4/25/2021 18:27:00
+511,Uttar Pradesh,gorakhpur,35,641,hospital,7311100131,Sri Gorachcha Nath Chikitsalya Niram Avam Vyawasthapika Samiti,,,7800455052,4/22/2021 17:28:00
+512,Haryana,gurgaon,15,206,hospital,7042292198,SGT Medical College & Research Institute,,,,4/27/2021 14:35:00
+513,Gujarat,surat,14,200,hospital,9825106019,Ayush Hospital,,,2612492821,4/23/2021 16:55:00
+514,Madhya Pradesh,indore,21,332,hospital,7879154987,MTH Hospital,,,7312920657,4/27/2021 14:40:00
+515,Gujarat,surat,14,200,hospital,9979967688,P.P.Savani Hospital,,,2612577100,4/23/2021 16:54:00
+516,Meghalaya,east garo hills,24,414,hospital,9863103188,Ganesh Das Hospital Shillong,,,,4/22/2021 18:24:00
+517,Kerala,alappuzha,1,4,hospital,9846671588,Medical College Hospital,,,,4/22/2021 13:59:00
+518,Uttar Pradesh,gonda,35,640,hospital,9415120583,Satish Chandra Pandey Memorial Hospital Pvt Ltd,,,9415120583,4/23/2021 18:11:00
+519,Maharashtra,latur,22,377,hospital,8275178348,"Rural Hospital, Nilanga",,,,4/27/2021 14:40:00
+520,Gujarat,navsari,14,190,hospital,9825196176,Lions Hospital,,,2637250390,4/23/2021 5:05pm
+521,Gujarat,tapi (vyara),14,197,hospital,9825120064,Nil Hospital Vyara,,,,4/24/2021 1:53pm
+522,Gujarat,surat,14,200,hospital,9586308319,Sunshine Global Hospital,,,2614111000,4/23/2021 16:04:00
+523,Gujarat,amreli,14,169,hospital,9978966629,Radhika Hospital,,,2792223316,4/22/2021 2:21pm
+524,Uttar Pradesh,lucknow,35,657,hospital,9648845777,Sunrise Hospital ,,,,4/27/2021 14:35:00
+525,Uttar Pradesh,agra,35,608,hospital,8954893910,Pushpanjali Hospital And Research Centre Pvt Ltd,,,9837068263,4/27/2021 14:35:00
+526,Gujarat,surat,14,200,hospital,9510695854,G.B.Vaghani Multi Spe Hosp,,,2612571011,4/23/2021 19:58:00
+527,Gujarat,bhavnagar,14,174,hospital,8306844217,Samarpan Hospital,,,9825108108,4/22/2021 15:46:00
+528,Gujarat,bharuch,14,173,hospital,9924102797,R.K.Hospital,,,2642221222,4/22/2021 3:42pm
+529,Uttar Pradesh,lucknow,35,657,hospital,7379887866,Eras Luchnow Medical College And Hospital Sarfarzganj Hardoi Road Lucknow,,,9335906748,4/23/2021 20:54:00
+530,Uttar Pradesh,etah,35,631,hospital,9837602917,Sri Roop Kishore Gautam Manav Seva Sansthan,,,9837602917,4/23/2021 18:46:00
+531,Gujarat,surat,14,200,hospital,9429149761,Baps Hospital,,,,4/27/2021 14:38:00
+532,Uttar Pradesh,sitapur,35,678,hospital,9936306999,Hind Institute Of Medical Science,,,,4/23/2021 19:46:00
+533,Uttar Pradesh,faizabad,35,633,hospital,9455401385,Raj Rajeshwari Hospital,,,9415937193,4/27/2021 14:41:00
+534,Gujarat,morbi,14,188,hospital,9904464036,Sadbhavna Hospital,,,8469851717,4/27/2021 2:36pm
+535,Bihar,patna,8,112,hospital,7762919191,Buddha Hospital and Research Centre,,,,4/27/2021 14:35:00
+536,Uttar Pradesh,jaunpur,35,647,hospital,9336048283,Snehlata Super Speciality Hospital Pvt Ltd,,,9415234155,4/24/2021 13:26:00
+537,Delhi (NCT),north west delhi,12,161,hospital,9717888473,"Pvt Rajiv Gandhi Cancer Institute & RC, Rohini",,,,4/24/2021 16:10:00
+538,Uttar Pradesh,farrukhabad,35,634,hospital,9455722333,Tiwari Multispeciality Hospital,,,9455722333,4/23/2021 16:46:00
+539,Maharashtra,pune,22,387,hospital,9552578731,Bhosari Hospital,,,,4/22/2021 18:13:00
+540,Uttar Pradesh,pratapgarh,35,668,hospital,9450185865,Ruma Hospital,,,9838232323,4/23/2021 20:56:00
+541,Uttar Pradesh,lucknow,35,657,hospital,9721523088,Prasad Medical College,"SARAI Shahzadi Babthara, Junab Ganj, Uttar Pradesh 226401",lucknow,9415101095,
+542,West Bengal,kolkata,37,707,hospital,3324567075,Woodlands Multispecility Hospital,,,,4/24/2021 12:41:00
+543,Uttar Pradesh,hardoi,35,644,hospital,9450389073,Rani Sahib Katiyari Hospital,,,9415149360,4/23/2021 21:12:00
+544,Gujarat,rajkot,14,194,hospital,9909989462,Wockhart Hospital,,,2816694235,4/23/2021 18:48:00
+545,Maharashtra,mumbai suburban,22,379,hospital,022-62806280,Apollo Hospital (Navi Mumbai),,navi mumbai,,
+546,Maharashtra,mumbai city,22,378,hospital,022-4100 8000,Titan Hospital,Thane,mumbai,,
+547,Uttar Pradesh,bareilly,35,622,hospital,9412738652,Shri Ram Murti Smarak Institute Of Medical Science,,,9412293356,4/22/2021 14:56:00
+548,Uttar Pradesh,bijnor,35,625,hospital,8392949409,Pulkit Memorial Hospital,,,9897226790,4/22/2021 15:49:00
+549,West Bengal,kolkata,37,707,hospital,3366520000,Medica Superspecialty Hospital,,,,4/23/2021 20:55:00
+550,Uttar Pradesh,basti,35,623,hospital,9506211118,Awadhesh Singh Nursing Home,,,9506211118,4/22/2021 15:01:00
+551,Uttar Pradesh,bulandshahr,35,627,hospital,7534004040,Rana Hospital,,,7534008888,4/23/2021 18:44:00
+552,Karnataka,hassan,19,293,hospital,8172250330,District Hospital,,,,4/23/2021 17:54:00
+553,Uttar Pradesh,jaunpur,35,647,hospital,9415273211,Isha Hospital,,,9453019530,4/27/2021 14:42:00
+554,Maharashtra,mumbai suburban,22,379,hospital,8879001670,Hinduja Hospital Khar,,,,4/24/2021 16:13:00
+555,Gujarat,vadodara,14,198,hospital,9879853595,Bankers Hospital,,,2652324004,4/24/2021 15:25:00
+556,Uttar Pradesh,barabanki,35,621,hospital,9936306999,Hind Institute Of Medical Sciences,,,9936306999,4/22/2021 14:52:00
+557,Meghalaya,east garo hills,24,414,hospital,9615030532,Childrens Hospital Shillong,,,,4/23/2021 17:44:00
+558,Gujarat,bhavnagar,14,174,hospital,9898068540,Punit Nurshing Home,,,9152607757,4/22/2021 15:46:00
+559,Meghalaya,south garo hills,24,419,hospital,7005316637,Civil Hospital Baghmara,,,7085918868,4/24/2021 15:19:00
+560,West Bengal,kolkata,37,707,hospital,3323203040,Apollo  Gleneagles Hospital,,,,4/23/2021 17:05:00
+561,Karnataka,uttara kannada (karwar),19,306,hospital,8385226460,Taluk Hospitl Bhatkal,,,,4/23/2021 4:58pm
+562,Uttar Pradesh,basti,35,623,hospital,9648731111,Shri Krishna Mission Hospital,,,9918712900,4/22/2021 15:05:00
+563,Gujarat,bharuch,14,173,hospital,9227436440,Tejasva Hospital,,,2642654990,4/22/2021 3:39pm
+564,Uttar Pradesh,firozabad,35,636,hospital,7895264002,Unity Hospital,,,9412163686,4/23/2021 20:49:00
+565,West Bengal,hooghly,37,703,hospital,3326335551,"Esi Hospital, Gourhati",,,,4/23/2021 7:49pm
+566,Madhya Pradesh,bhopal,21,319,hospital,9826969099,Manorama Raje Tb Hospital,,,7312527938,4/22/2021 15:48:00
+567,Uttar Pradesh,auraiya,35,614,hospital,9359943400,Krishna Medical Centre,,,9359943400,4/22/2021 14:32:00
+568,West Bengal,kolkata,37,707,hospital,3366871800,Ruby  General  Hospital,,,,4/23/2021 17:55:00
+569,Uttar Pradesh,varanasi,35,682,hospital,7800230000,Heritage Institute Of Medical Sciences,,,9415226196,4/24/2021 13:50:00
+570,Meghalaya,east garo hills,24,414,hospital,8486561501,Military Hospital Shillong,,,,4/23/2021 16:48:00
+571,Uttar Pradesh,lucknow,35,657,hospital,9415328915,King Medical Center,Kakori Lucknow,lucknow,,
+572,Bihar,patna,8,112,hospital,8709253652,"Green City Hospital, Patna",,,,4/27/2021 14:35:00
+573,Uttar Pradesh,mau,35,662,hospital,9792379630,Prakash Hospital And Trauma Center,,,7705816796,4/23/2021 17:13:00
+574,Maharashtra,kolhapur,22,376,hospital,2312643464,Chhatrapati Pramilaraje Hospital,,,,4/24/2021 12:41:00
+575,Uttar Pradesh,lucknow,35,657,hospital,7947145417,"St.Joseph Hospital, gomti nagar",,,,4/27/2021 14:35:00
+576,Uttar Pradesh,lucknow,35,657,hospital,7311177795,"Cantonment Board, Lucknow","RA Bazar School (Near Neeta Memorial Hospital), Topkhana Sadar",lucknow,,
+577,Karnataka,bengaluru (bangalore) urban,19,283,hospital,8147252025,Fortis Hospital Bannerghatta,,bangalore,,5/8/21 18:28
+578,Uttar Pradesh,shamali (prabuddh nagar),35,675,hospital,7310879709,Ganga Amrit Multi Speciallity Hospital,,,9319472227,4/23/2021 16:52:00
+579,Karnataka,bengaluru (bangalore) urban,19,283,hospital,9448002756,Sathya Hospital Near Reva College - Yelahanka,,bangalore,,5/8/21 18:41
+580,Haryana,sirsa,15,220,hospital,01666-260222,shah satnam dera hospital,,sirsa,,
+581,Rajasthan,sikar,30,528,hospital,9636785947,Dhayal Hospital & Research Center,,,,4/27/2021 14:37:00
+582,Uttar Pradesh,etah,35,631,hospital,9219595393,Dr Shalindra Jain Hospital,,,9219595393,4/22/2021 17:57:00
+583,Uttar Pradesh,lucknow,35,657,hospital,7897030844,Lok Bandhu Hospital,,,,4/27/2021 14:35:00
+584,Uttar Pradesh,lucknow,35,657,hospital,9839171943,Prasad Institute of Medical Sciences,"SARAI Shahzadi Babthara, Junab Ganj, Uttar Pradesh 226401",lucknow,9721523088,
+585,Uttar Pradesh,lucknow,35,657,hospital,9839181447,Aprajita Hospital,"B-1/5, Sec-G, Janakipuram Lucknow 226026",lucknow,0522 4016661,
+586,Uttar Pradesh,moradabad,35,665,hospital,6396852002,Siddh Multispeciality Hospital,,,9412235166,4/24/2021 12:16:00
+587,Uttar Pradesh,aligarh,35,609,hospital,9219400094,J D Hospital ICU And Trauma Centre,,,9997099915,4/22/2021 14:01:00
+588,Uttar Pradesh,firozabad,35,636,hospital,8923335331,Sevarth Sansthan Trauma And Physiotheraphy Dharmarth Samiti,,,9837034050,4/24/2021 12:19:00
+589,Gujarat,vadodara,14,198,hospital,9648770600,Tricolor Hospital,,,2652477777,4/23/2021 19:55:00
+590,Gujarat,jamnagar,14,182,hospital,9099966915,Gokul New Tech Hospital,,,2882912300,4/23/2021 14:05:00
+591,Uttar Pradesh,meerut,35,663,hospital,9639010215,Chatrapati Shivaji Subharti Hospital,,,9639015550,4/24/2021 12:47:00
+592,Uttar Pradesh,azamgarh,35,615,hospital,9415208464,Prakash nursing home,,,9415208464,4/22/2021 14:37:00
+593,Rajasthan,ajmer,30,500,hospital,1452425050,JLN Medical College,,,,4/22/2021 13:57:00
+594,Uttar Pradesh,balrampur,35,619,hospital,7500244455,Narayan Hospital And Trauma Centre,,,9917188880,4/23/2021 18:15:00
+595,Madhya Pradesh,indore,21,332,hospital,9827044461,Suyash Hospital,,,,4/23/2021 16:45:00
+596,Gujarat,gandhinagar,14,180,hospital,7966701800,Apollo Hospital,,,,4/23/2021 20:59:00
+597,Delhi (NCT),new delhi,12,158,hospital,8802911790,Home setup ventilator & ICU,,,,4/27/2021 14:35:00
+598,Telangana,siddipet,33,593,hospital,8457222036,Government General Hospital,,,,4/23/2021 15:24:00
+599,West Bengal,north 24 parganas,37,711,hospital,3325236763,Bandipur B.P.H.C,,,,4/27/2021 14:35:00
+600,Maharashtra,mumbai city,22,378,hospital,2266529999,"S L Raheja Hospital (Fortis, Raheja)",,,,4/24/2021 16:10:00
+601,Meghalaya,ri bhoi,24,418,hospital,9436731477,Bethany Hospital Nongpoh,,,,4/23/2021 18:00:00
+602,Uttar Pradesh,bulandshahr,35,627,hospital,7017323921,Viit Hospital (Isolation),,,7500449600,4/22/2021 17:41:00
+603,Uttar Pradesh,bareilly,35,622,hospital,8171790347,Rohilkhand Medical College And Hospital,,,9358617603,4/27/2021 14:35:00
+604,Gujarat,vadodara,14,198,hospital,6359678844,Savita SuperspecialityHospital,,,2652578844,4/24/2021 15:53:00
+605,West Bengal,north 24 parganas,37,711,hospital,3217246409,Shibhati B.P.H.C.,,,,4/27/2021 14:35:00
+606,Haryana,jind,15,209,hospital,1681297149,Civil hospital jind,,,,4/24/2021 14:09:00
+607,Meghalaya,east garo hills,24,414,hospital,9862018017,Nazareth Hospital Shillong,,,8794052620,4/24/2021 12:56:00
+608,Meghalaya,east garo hills,24,414,hospital,9968941365,Neigrihms Shillong,,,,4/23/2021 17:56:00
+609,Meghalaya,south west garo hills,24,420,hospital,9436316287,Mission Hospital Tura,,,,4/27/2021 14:40:00
+610,Gujarat,gandhinagar,14,180,hospital,7923200108,Smvs Hospital,,,,4/23/2021 20:34:00
+611,Maharashtra,pune,22,387,hospital,919518593779,Wipro Covid Hospital,,,919011087560,4/27/2021 14:35:00
+612,Uttar Pradesh,moradabad,35,665,hospital,9837763888,TMHRC Moradabad,,,9837040040,4/23/2021 20:34:00
+613,West Bengal,kolkata,37,707,hospital,3340206500,Ils Hospital,,,,4/23/2021 20:52:00
+614,Meghalaya,west jaintia hills,24,423,hospital,9436119964,Civil Hospital Jowai,,,,4/22/2021 3:29pm
